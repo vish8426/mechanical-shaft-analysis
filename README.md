@@ -2,4 +2,4 @@
 Mechanical Engineering Shaft Design &amp; Analysis
 
 ## About
-The following investigation invlodes two analysis methods in order to identify a suitable design of a shaft to suit the chain drive to a mixer. 
+The following investigation invodes two analysis methods in order to identify a suitable design of a shaft to suit the chain drive to a mixer. 
